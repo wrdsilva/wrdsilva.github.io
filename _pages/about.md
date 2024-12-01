@@ -7,12 +7,12 @@ subtitle: <a href='https://www.ufscar.br/'>Federal University of São Carlos (UF
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>Department of Computer Science</p>
     <p>Laboratory of Studies in Networks, Innovation, and, Software (LERIS)</p>
-    <p>Room 4108, Building FINEP 3 and 4</p>
-    <p>João Leme dos Santos Road (SP-264), Km 110</p>
+    <p>Room 4108, Building FINEP 4</p>
+    <p>João Leme dos Santos Road, Km 110</p>
     <p>Sorocaba, São Paulo, Brazil, 18052780</p>
 
 news: true # includes a list of news items
