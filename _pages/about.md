@@ -6,7 +6,7 @@ subtitle: <a href='https://www.ufscar.br/'>Federal University of São Carlos (UF
 
 profile:
   align: right
-  image: prof_pic_color.png
+  image: prof_pic_40.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Department of Computer Science</p>
