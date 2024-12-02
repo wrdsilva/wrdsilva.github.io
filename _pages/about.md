@@ -12,16 +12,15 @@ profile:
     <p>Department of Computer Science</p>
     <p>Laboratory of Studies in Networks, Innovation, and, Software (LERIS)</p>
     <p>Room 4108, Building FINEP 4</p>
-    <p>João Leme dos Santos Road, Km 110</p>
-    <p>Sorocaba, São Paulo, Brazil, 18052780</p>
+    <p>João Leme dos Santos Road, Km 110, Sorocaba, São Paulo, Brazil, 18052780</p>
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello, visitor!
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My name is Washington Rodrigo Dias da Silva, and I am a PhD student in Computer Science at the Federal University of São Carlos (UFSCar), Brazil. My research focuses on Deep Learning applications and Distributed Computing within Computer Networks. Currently, I work at the [Laboratory of Studies in Networks, Innovation, and, Software (LERIS)](https://leris.dcomp.ufscar.br/) at the Sorocaba Campus. I am also a part of the [SMART NEtworks and ServiceS for 2030 (SMARTNESS) Engineering Research Center](https://smartness2030.tech/), where I contribute as a PhD student within the [Distributed Computer Networking (DisCoNet) research strand](https://smartness2030.tech/research_strands/disconet-distributed-computer-networking/). 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research interests are diverse and include Artificial Intelligence and its applications, with a current focus on Image Processing and Analysis, Deep Learning, Computer Vision, Reinforcement Learning, and Distributed Computing.
